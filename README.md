@@ -45,6 +45,6 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 
 
 ## Acknowledgement [[Back to Top](#llms-privacy-literature)]
-- GitHub Repo of LLM Security & Privacy papers [[GitHub repo](https://github.com/chawins/llm-sp)] by [@Chawin Sitawarin](https://github.com/chawins)
-- GitHub Repo MIMIR - Python package for measuring memorization in LLMs [[GitHub repo]](https://github.com/iamgroot42/mimir) by [@Anshuman Suri](https://github.com/iamgroot42)
+- A curated list of LLM Security & Privacy papers [[GitHub repo](https://github.com/chawins/llm-sp)] by [@Chawin Sitawarin](https://github.com/chawins)
+- MIMIR - Python package for measuring memorization in LLMs [[GitHub repo]](https://github.com/iamgroot42/mimir) by [@Anshuman Suri](https://github.com/iamgroot42)
 
