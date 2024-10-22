@@ -37,5 +37,5 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 
 
 ## Acknowledgement
-- GitHub Repo of LLM Security & Privacy by [@chawins](https://github.com/chawins) [GitHub repo](https://github.com/chawins/llm-sp)
+- GitHub Repo of LLM Security & Privacy by [@chawins](https://github.com/chawins) [[GitHub repo](https://github.com/chawins/llm-sp)]
 
