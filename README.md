@@ -13,7 +13,7 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 - [Other Resources](#other-resources-back-to-top)
 - [Acknowledgement](#acknowledgement-back-to-top)
 
-## LLMs Privacy-related Papers[[Back to Top](#llms-privacy-literature)]
+## LLMs Privacy-related Papers [[Back to Top](#llms-privacy-literature)]
 | Year   | Venue | Title | Topic | LLMs  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|------------|
 | 2021 | USENIX'Sec |**Extracting Training Data from Large Languange Models** | Training Data Extraction | GPT-2 | [Link](https://arxiv.org/abs/2012.07805) | [Link](https://github.com/ftramer/LM_Memorization) |
@@ -32,11 +32,11 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 | 2024 | arXiv | **Evaluating Large Language Model based Personal Information Extraction and Countermeasures** | Personal Profile Extraction | PaLM, gemini-pro, Flan-UL2, Vicuna, GPT-3.5-turbo, GPT-4, LLaMA, InternLM | [Link](https://arxiv.org/abs/2408.07291) | [Link](https://github.com/liu00222/LLM-Based-Personal-Profile-Extraction) |
 | 2024 | arXiv |**Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large Language Models** | MIA | Pythia, GPT-NeoX, LLaMA, OPT, Mamba | [Link](https://arxiv.org/abs/2404.02936) | [Link](https://github.com/zjysteven/mink-plus-plus) |
 
-## Other Resources[[Back to Top](#llms-privacy-literature)]
+## Other Resources [[Back to Top](#llms-privacy-literature)]
 - The 1st GenAI Risks Workshop - Jun 2023 [[Website](https://sites.google.com/view/genai-risk-workshop/home?authuser=0)] [[Report](https://www.nowpublishers.com/article/Details/SEC-041)]
 - The 2nd GenAI Risks Workshop - Oct 2023 [[Website](https://sites.google.com/view/genai-risks-workshop-oct-2023/home?authuser=0)] [[Report](https://eprint.iacr.org/2024/855)]
 
 
-## Acknowledgement[[Back to Top](#llms-privacy-literature)]
+## Acknowledgement [[Back to Top](#llms-privacy-literature)]
 - GitHub Repo of LLM Security & Privacy by [@chawins](https://github.com/chawins) [[GitHub repo](https://github.com/chawins/llm-sp)]
 
