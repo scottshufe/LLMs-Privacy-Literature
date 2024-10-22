@@ -32,7 +32,7 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 | 2024 | arXiv |**Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large Language Models** | MIA | Pythia, GPT-NeoX, LLaMA, OPT, Mamba | [Link](https://arxiv.org/abs/2404.02936) | [Link](https://github.com/zjysteven/mink-plus-plus) |
 
 ## Other Resources
-- The 1st GenAI Risks Workshop - Jun 2023[Website](https://sites.google.com/view/genai-risk-workshop/home?authuser=0)[Report](https://www.nowpublishers.com/article/Details/SEC-041)
+- The 1st GenAI Risks Workshop - Jun 2023[[Website](https://sites.google.com/view/genai-risk-workshop/home?authuser=0)][[Report](https://www.nowpublishers.com/article/Details/SEC-041)]
 - The 2nd GenAI Risks Workshop - Oct 2023[Website](https://sites.google.com/view/genai-risks-workshop-oct-2023/home?authuser=0)[Report](https://eprint.iacr.org/2024/855)
 
 
