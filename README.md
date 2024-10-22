@@ -21,7 +21,7 @@ Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```Chat
 | 2024 | EMNLP |**ReCaLL: Membership Inference via Relative Conditional Log-Likelihoods** | MIA | Pythia, GPT-NeoX, LLaMA, OPT, Mamba | [Link](https://arxiv.org/abs/2406.15968) | [Link](https://github.com/ruoyuxie/recall) |
 | 2024 | EMNLP |**Reconstruct Your Previous Conversations! Comprehensively Investigating Privacy Leakage Risks in Conversations with GPT Models** | Conversations Reconstruction | GPT-3.5, GPT-4 | [Link](https://arxiv.org/abs/2402.02987) |  |
 | 2024 | CCS | **PLeak: Prompt Leaking Attacks against Large Language Model Applications** | Prompt Leaking Attack | GPT-J, OPT, Falcon, LLaMA, Vicuna, and 50 LLM applications from Poe | [Link](https://arxiv.org/abs/2405.06823) | [Link](https://github.com/BHui97/PLeak) |
-| 2024 | arXiv | **Evaluating Large Language Model based Personal Information Extraction and Countermeasures** | Personal Profile Extraction |  | [Link](https://arxiv.org/abs/2408.07291) | [Link](https://github.com/liu00222/LLM-Based-Personal-Profile-Extraction) |
+| 2024 | arXiv | **Evaluating Large Language Model based Personal Information Extraction and Countermeasures** | Personal Profile Extraction | PaLM, gemini-pro, Flan-UL2, Vicuna, GPT-3.5-turbo, GPT-4, LLaMA, InternLM | [Link](https://arxiv.org/abs/2408.07291) | [Link](https://github.com/liu00222/LLM-Based-Personal-Profile-Extraction) |
 | 2024 | arXiv |**Min-K%++: Improved Baseline for Detecting Pre-Training Data from Large Language Models** | MIA | Pythia, GPT-NeoX, LLaMA, OPT, Mamba | [Link](https://arxiv.org/abs/2404.02936) | [Link](https://github.com/zjysteven/mink-plus-plus) |
 
 
