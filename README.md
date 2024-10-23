@@ -3,7 +3,7 @@
 
 A curated list of LLMs Privacy papers (and codes).
 
-Paper are sorted by their released dates in ascending order.
+Papers are sorted by their released dates in ascending order.
 
 ## How to Search?
 Search keywords like conference name (e.g., ```CCS```), LLMs name (e.g., ```ChatGPT```), or topic (e.g., ```MIA```) over the webpage to quickly locate related papers.
